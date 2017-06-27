@@ -11,7 +11,7 @@ payload = {
         'event_type': 'TripCompleted',
         'event_timestamp': datetime.utcnow().isoformat() + "Z"
     },
-    'trip_id': '19021234'
+    'trip_id': '1902000'
 }
 
 # with open('TripCompleted.json') as data_file:    
